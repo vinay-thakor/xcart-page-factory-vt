@@ -1,0 +1,7 @@
+2020-04-24 00:04:70 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-04-24 00:04:443 INFO       HomePage :25 - Clicking on SignIn and Sign Up button : [[ChromeDriver: chrome on WINDOWS (7fac7b86f6e51acf788ac668853cb78d)] -> xpath: //div/div[3]/button/span]
+2020-04-24 00:04:586 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-04-24 00:04:310 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-04-24 00:04:317 INFO       HomePage :25 - Clicking on SignIn and Sign Up button : [[ChromeDriver: chrome on WINDOWS (40c24c3b1b4c6a0eac4938943c30521e)] -> xpath: //div/div[3]/button/span]
+2020-04-24 00:04:49 INFO       BrowserSelector :18 - Launching Chrome Browser
+2020-04-24 00:04:349 INFO       HomePage :25 - Clicking on SignIn and Sign Up button : [[ChromeDriver: chrome on WINDOWS (77f4fbbff884ce3ebfe634117b5e0f6f)] -> xpath: //div/div[3]/button/span]
